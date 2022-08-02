@@ -3,8 +3,7 @@ A Tenkeyless (TKL) Mechanical Keyboard, but more compact.
 
 
 Layout (from [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))
-![tkl-compact (2)](https://user-images.githubusercontent.com/44849235/182285715-5beb1b73-912f-4e40-904d-b339dec0b8cc.png)
-
+![tkl-compact (2)](https://user-images.githubusercontent.com/44849235/182286023-d7e69f2b-a667-4196-868f-c52cfafa1060.png)
 
 
 
