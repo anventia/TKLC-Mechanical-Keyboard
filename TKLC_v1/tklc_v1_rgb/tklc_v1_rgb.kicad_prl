@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdbdbf_ffffffff",
+    "visible_layers": "ffdbdff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "tklc_v1_rgb_LP.kicad_prl",
+    "filename": "tklc_v1_rgb.kicad_prl",
     "version": 3
   },
   "project": {
