@@ -18173,7 +18173,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 79cb7527-3d34-4eb8-8577-6c79d67aa285)
   )
-  (label "PWR" (at 39.37 228.6 180)
+  (label "RGB_PWR" (at 39.37 228.6 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 832648d4-8da4-4287-9327-d68fd9e0dbc9)
   )
