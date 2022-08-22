@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="158.27454"
+   height="52.795261"
+   viewBox="0 0 41.876784 13.968742"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="test.svg"
+   inkscape:export-filename="C:\Users\brend\OneDrive\Documents\PCB Designs\TKLC_v1\resources\test.png"
+   inkscape:export-xdpi="187.069"
+   inkscape:export-ydpi="187.069">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="217.41688"
+     inkscape:cy="108.52803"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1431"
+     inkscape:window-height="1020"
+     inkscape:window-x="96"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     borderlayer="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-77.042665,-137.35049)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:53.4737;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.521569"
+       id="rect1400"
+       width="97.08709"
+       height="18.576691"
+       x="74.36924"
+       y="134.67705" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.0241px;line-height:1.25;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.532003"
+       x="77.232201"
+       y="149.14751"
+       id="text832"><tspan
+         sodipodi:role="line"
+         id="tspan830"
+         x="77.232201"
+         y="149.14751"
+         style="stroke-width:0.532003">tklc-v1.0</tspan></text>
+  </g>
+</svg>

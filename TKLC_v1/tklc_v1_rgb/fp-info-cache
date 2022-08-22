@@ -1,4 +1,4 @@
-20265358376854081
+20267019504363509
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86232,6 +86232,13 @@ CherryMX 2.75u PCB KailhSocket StabWireTop LED
 0
 6
 6
+edited_footprints
+MountingHole
+
+
+0
+0
+0
 edited_footprints
 R_Axial_DIN0207_L6.3mEDIT_m_D2.5mm_P7.62mm_Horizontal
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
