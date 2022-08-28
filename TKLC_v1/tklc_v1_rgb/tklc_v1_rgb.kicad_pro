@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "tklc_v1_rgb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

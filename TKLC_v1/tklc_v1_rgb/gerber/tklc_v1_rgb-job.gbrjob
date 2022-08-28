@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
-    "CreationDate": "2022-08-21T18:03:26-07:00"
+    "CreationDate": "2022-08-23T14:47:47-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "tklc_v1_rgb-F_Cu.gbr",
+      "Path": "tklc_v1_rgb-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tklc_v1_rgb-B_Cu.gbr",
+      "Path": "tklc_v1_rgb-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tklc_v1_rgb-F_Paste.gbr",
+      "Path": "tklc_v1_rgb-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tklc_v1_rgb-B_Paste.gbr",
+      "Path": "tklc_v1_rgb-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tklc_v1_rgb-F_Silkscreen.gbr",
+      "Path": "tklc_v1_rgb-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tklc_v1_rgb-B_Silkscreen.gbr",
+      "Path": "tklc_v1_rgb-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tklc_v1_rgb-F_Mask.gbr",
+      "Path": "tklc_v1_rgb-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tklc_v1_rgb-B_Mask.gbr",
+      "Path": "tklc_v1_rgb-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tklc_v1_rgb-Edge_Cuts.gbr",
+      "Path": "tklc_v1_rgb-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
