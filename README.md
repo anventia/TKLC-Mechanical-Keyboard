@@ -1,5 +1,7 @@
 # Tenkeyless-Compact
 A Tenkeyless (TKL) Mechanical Keyboard, but more compact.
+<img width="1913" height="1440" alt="image" src="https://github.com/user-attachments/assets/b5611a67-07be-4b0b-9707-e26295fa6a65" />
+
 
 
 Layout (from [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))
