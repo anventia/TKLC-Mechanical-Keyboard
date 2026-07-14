@@ -10,6 +10,8 @@ A Tenkeyless (TKL) Mechanical Keyboard, but more compact.
 <img width="1913" height="1440" alt="image" src="https://github.com/user-attachments/assets/4c394538-5bad-4ae8-aabc-4400c9638c4a" />
 <img width="1913" height="1440" alt="image" src="https://github.com/user-attachments/assets/84906ff4-45f4-47fa-9192-34d501185658" />
 
+[More images here](https://photos.anv3d.net/share/XmMfmQBNBfAzoucF3x74RvwrajWIMN9iaQ0uHyBkrugpA7lCPas15zOcdVT3Yqxft6Q)
+
 Layout (from [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/))
 ![tkl-compact (2)](https://user-images.githubusercontent.com/44849235/182286023-d7e69f2b-a667-4196-868f-c52cfafa1060.png)
 
